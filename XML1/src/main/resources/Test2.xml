@@ -1,0 +1,14 @@
+<people count="2">
+    <person id="P397288">
+        <wife value="P397949"/>
+    </person>
+
+    <person>
+        <fullname>
+            <first>Den</first>
+            <family>Braun</family>
+        </fullname>
+        <id value="P397288"/>
+        <gender value="male"/>
+    </person>
+</people>
